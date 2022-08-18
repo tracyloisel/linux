@@ -3,7 +3,7 @@ VERSION = 6
 PATCHLEVEL = 0
 SUBLEVEL = 0
 EXTRAVERSION = -rc1
-NAME = Hurr durr I'ma ninja sloth
+NAME = Hurr durr I'm a ninja sloth
 
 # *DOCUMENTATION*
 # To see a list of typical targets execute "make help"
